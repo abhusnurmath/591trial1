@@ -8,6 +8,7 @@ public class HW {
     if (s.next() == "abcd") {
       int x = 5;
       System.out.println(x);
+      //stuff stuff
     }
     s.close();
   }
