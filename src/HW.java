@@ -9,6 +9,8 @@ public class HW {
       int x = 5;
       System.out.println(x);
       //stuff stuff
+      //this is new stuff
+      System.out.println("sfdhhhhh");
     }
     s.close();
   }
