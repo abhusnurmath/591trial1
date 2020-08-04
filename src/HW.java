@@ -8,7 +8,7 @@ public class HW {
     if (s.next() == "abcd") {
       int x = 5;
       System.out.println(x);
-      System.out.println("Michelle is trying to push stuff and I will not let her!!");
+      System.out.println("Michelle is trying to push stuff");
     }
     s.close();
   }
