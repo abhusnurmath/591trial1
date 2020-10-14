@@ -9,6 +9,7 @@ public class HW {
       int x = 5;
       System.out.println(x);
       System.out.println("Michelle pushed first and I pushed after");
+      System.out.println("some new stuff in Oct 2020");
     }
     s.close();
   }
